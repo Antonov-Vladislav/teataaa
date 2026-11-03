@@ -27,6 +27,7 @@ void main()
 	printf("Меньшее число = %d\n", min);
 	printf("Первое изменение %d\n", min);
 	printf("Второе изменение = %d\n", min);
+	printf("Второе изменение настоящее= %d\n", min);
 }
 //2.1.2
 // #include <stdio.h>
